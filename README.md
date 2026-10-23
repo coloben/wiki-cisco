@@ -2,7 +2,9 @@
 
 Wiki communautaire en français pour **Cisco's Fantasy Medieval RPG [Ultimate]**, construit avec MkDocs Material.
 
-Le projet est prêt à être placé dans un dépôt GitHub. Rien n'a été publié automatiquement.
+**Wiki en ligne :** https://coloben.github.io/wiki-cisco/
+
+**Dépôt GitHub :** https://github.com/coloben/wiki-cisco
 
 ## Voir le wiki sur son PC
 

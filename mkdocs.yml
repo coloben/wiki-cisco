@@ -1,6 +1,10 @@
 site_name: Wiki Cisco
 site_description: Guide communautaire francophone pour Cisco's Fantasy Medieval RPG [Ultimate]
 site_author: Communauté Cisco
+site_url: https://coloben.github.io/wiki-cisco/
+repo_url: https://github.com/coloben/wiki-cisco
+repo_name: coloben/wiki-cisco
+edit_uri: edit/main/docs/
 
 theme:
   name: material
