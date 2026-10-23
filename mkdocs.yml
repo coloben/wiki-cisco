@@ -1,0 +1,69 @@
+site_name: Wiki Cisco
+site_description: Guide communautaire francophone pour Cisco's Fantasy Medieval RPG [Ultimate]
+site_author: Communauté Cisco
+
+theme:
+  name: material
+  language: fr
+  icon:
+    logo: material/book-open-page-variant
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Passer au thème sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Passer au thème clair
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: fr
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Accueil: index.md
+  - Bien démarrer:
+      - Premiers réflexes: guide/debuter.md
+      - Chercher un objet ou une recette: guide/recherche.md
+      - Rangement et coffres: guide/rangement.md
+      - Explorer et se repérer: guide/exploration.md
+      - Progression et quêtes: guide/progression.md
+  - Apotheosis:
+      - Gemmes et sertissage: apotheosis/gemmes.md
+  - Mods:
+      - Index des mods: mods/index.md
+      - Liste brute des fichiers: mods/fichiers.md
+  - Fiabilité du wiki: verification.md
+
