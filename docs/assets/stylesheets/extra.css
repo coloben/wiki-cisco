@@ -33,3 +33,66 @@
   font-size: 0.82em;
 }
 
+.wiki-hero {
+  margin: 1.25rem 0 1.5rem;
+}
+
+.wiki-hero img {
+  display: block;
+  width: 100%;
+  max-height: 25rem;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 0.9rem;
+  box-shadow: 0 0.45rem 1.4rem rgba(30, 20, 45, 0.18);
+}
+
+.wiki-hero figcaption,
+.image-credit {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.72rem;
+  text-align: center;
+}
+
+.object-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 0.35rem;
+}
+
+.object-gallery--two {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.object-card {
+  padding: 0.8rem;
+  text-align: center;
+  border: 0.05rem solid var(--md-default-fg-color--lightest);
+  border-radius: 0.7rem;
+  background: var(--md-code-bg-color);
+}
+
+.object-card p {
+  margin: 0.25rem 0;
+}
+
+.item-icon {
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  image-rendering: pixelated;
+  filter: drop-shadow(0 0.2rem 0.2rem rgba(0, 0, 0, 0.2));
+}
+
+@media screen and (max-width: 44.9844em) {
+  .object-gallery,
+  .object-gallery--two {
+    grid-template-columns: 1fr;
+  }
+
+  .wiki-hero img {
+    min-height: 12rem;
+  }
+}
+

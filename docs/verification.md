@@ -20,6 +20,16 @@ Ce wiki sépare volontairement ce qui est **confirmé dans l'instance** de ce qu
 
 Un nom de fichier confirme la présence d'un mod, pas que toutes ses fonctions sont accessibles sur le serveur. Les recettes et valeurs peuvent aussi être modifiées par KubeJS, CraftTweaker, datapacks ou configuration. Pour cette raison, le wiki conseille **JEI en jeu** pour les recettes et évite de recopier des recettes non vérifiées.
 
+## Images et licences
+
+L'illustration de l'accueil a été créée spécialement pour ce wiki. Les petites icônes d'objets sont extraites des versions exactes installées afin d'éviter de montrer un objet d'une autre version :
+
+- **Apotheosis 6.5.2**, par Shadows_of_Fire — licence MIT ;
+- **Tom's Simple Storage 1.5.11**, par tom5454 — licence MIT ;
+- **Nature's Compass 1.10.0** et **Explorer's Compass 1.3.0**, par ChaosTheDude — licence CC BY-NC-SA 4.0.
+
+Ces textures servent uniquement à reconnaître les objets concernés. Les mods et leurs illustrations restent attribués à leurs auteurs.
+
 ## Corriger une page
 
 Pour compléter une mécanique, noter idéalement :

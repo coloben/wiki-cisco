@@ -3,6 +3,30 @@
 !!! success "Vérifié dans l'instance"
     Page contrôlée avec `Apotheosis-1.19.2-6.5.2.jar`, `apotheosis.cfg` et le guide français Apotheosis installé dans le pack. Le module Aventure est activé.
 
+## Les objets à reconnaître
+
+<div class="object-gallery object-gallery--two" markdown>
+
+<div class="object-card" markdown>
+![Gemme Apotheosis](../assets/images/items/apotheosis-gem.png){ .item-icon }
+
+**Gemme**
+
+Le dessin change selon sa famille.
+</div>
+
+<div class="object-card" markdown>
+![Poussière de gemme Apotheosis](../assets/images/items/apotheosis-gem-dust.png){ .item-icon }
+
+**Poussière de gemme**
+
+Matériau utilisé pour l'amélioration.
+</div>
+
+</div>
+
+<p class="image-credit">Textures exactes d'Apotheosis 6.5.2, affichées pour identifier les objets.</p>
+
 ## À quoi sert une gemme ?
 
 Une gemme Apotheosis se **sertit dans un objet à affixes** pour lui donner un bonus. Le bonus dépend à la fois :

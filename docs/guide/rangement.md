@@ -13,6 +13,36 @@ Pour préparer un réseau sans deviner les recettes :
 2. repère les éléments contenant `Connector`, `Terminal`, `Cable` ou `Inventory` ;
 3. consulte dans JEI leur recette et leurs usages pour cette version du pack.
 
+<div class="object-gallery" markdown>
+
+<div class="object-card" markdown>
+![Connecteur d'inventaire Tom's Storage](../assets/images/items/toms-storage-inventory-connector.png){ .item-icon }
+
+**Inventory Connector**
+
+Le point de départ du réseau.
+</div>
+
+<div class="object-card" markdown>
+![Terminal Tom's Storage](../assets/images/items/toms-storage-terminal.png){ .item-icon }
+
+**Storage Terminal**
+
+La face du bloc depuis lequel on consulte le stockage.
+</div>
+
+<div class="object-card" markdown>
+![Câble d'inventaire Tom's Storage](../assets/images/items/toms-storage-inventory-cable.png){ .item-icon }
+
+**Inventory Cable**
+
+Le câble qui relie les éléments du réseau.
+</div>
+
+</div>
+
+<p class="image-credit">Textures exactes de Tom's Simple Storage 1.5.11. Les noms restent en anglais pour les retrouver sans ambiguïté dans JEI.</p>
+
 !!! note "Pourquoi pas une recette copiée ici ?"
     KubeJS et CraftTweaker sont installés et peuvent modifier les recettes. JEI affiche la recette réellement chargée par votre partie.
 

@@ -2,6 +2,11 @@
 
 Retrouve rapidement **à quoi sert un mod**, comment utiliser un objet, et où continuer ta progression dans Cisco's Fantasy Medieval RPG.
 
+<figure class="wiki-hero">
+  <img src="assets/images/hero-cisco.webp" alt="Deux aventuriers découvrent une vallée médiévale fantastique avec un château, un village, des îles flottantes et un portail violet.">
+  <figcaption>Bienvenue dans l'aventure — illustration originale du Wiki Cisco.</figcaption>
+</figure>
+
 !!! info "État de cette première version"
     L'inventaire contient **292 mods `.jar` réellement présents** dans l'instance analysée. Les guides marqués « Vérifié » s'appuient sur les fichiers installés. Les autres entrées sont volontairement signalées « À compléter » au lieu d'inventer une explication.
 

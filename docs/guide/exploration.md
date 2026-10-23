@@ -3,6 +3,28 @@
 !!! success "Vérifié — métadonnées des mods installés"
     Les fonctions ci-dessous viennent des descriptions embarquées dans les `.jar`. Les recettes exactes doivent être consultées dans JEI.
 
+<div class="object-gallery object-gallery--two" markdown>
+
+<div class="object-card" markdown>
+![Boussole de la nature](../assets/images/items/natures-compass.png){ .item-icon }
+
+**Nature's Compass**
+
+La boussole des biomes.
+</div>
+
+<div class="object-card" markdown>
+![Boussole de l'explorateur](../assets/images/items/explorers-compass.png){ .item-icon }
+
+**Explorer's Compass**
+
+La boussole des structures.
+</div>
+
+</div>
+
+<p class="image-credit">Icônes exactes des versions installées. L'aiguille peut tourner en jeu.</p>
+
 ## Trouver un biome
 
 **Nature's Compass** permet de rechercher un biome et d'obtenir des informations sur celui-ci. Cherche `@naturescompass` dans JEI.
